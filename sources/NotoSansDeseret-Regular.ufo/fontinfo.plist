@@ -36,6 +36,8 @@
     <string>Monotype Imaging Inc.</string>
     <key>openTypeNameManufacturerURL</key>
     <string>http://www.google.com/get/noto/</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Regular</string>
     <key>openTypeNameVersion</key>
     <string>Version 2.001</string>
     <key>openTypeOS2Panose</key>
@@ -73,6 +75,10 @@
     </array>
     <key>openTypeOS2VendorID</key>
     <string>GOOG</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>1069</integer>
     <key>openTypeOS2WinDescent</key>
@@ -88,6 +94,8 @@
       <integer>1069</integer>
       <integer>1084</integer>
     </array>
+    <key>postscriptFontName</key>
+    <string>NotoSansDeseret-Regular</string>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-308</integer>
@@ -107,8 +115,6 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
-    <key>styleMapFamilyName</key>
-    <string>Noto Sans Deseret</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
